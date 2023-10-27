@@ -2,8 +2,8 @@
 points: 5pt
 ## Category
 General Skills
-## Question
-> This file has a flag in plain sight (aka "in-the-clear").
+## Description
+> This file has a flag in plain sight (aka "in-the-clear"). Download `flag`
 ## Solution
 > `cat` : reads data from the file and gives its content as output.
 Do `cat flag` to get the flag.
