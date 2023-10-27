@@ -1,4 +1,4 @@
-# Obedient Cat
+## Obedient Cat
 * Points: 5pt
 * Tags: `General Skills`, `picoCTF 2021`
 ## Description
