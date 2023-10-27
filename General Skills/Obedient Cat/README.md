@@ -1,7 +1,6 @@
 ## Obedient Cat
-points: 5pt
-## Category
-General Skills
+* points: 5pt
+* category: General Skills
 ## Description
 > This file has a flag in plain sight (aka "in-the-clear").\
 > `Download flag`
