@@ -7,9 +7,10 @@
 > * You can practice using netcat with this picoGym problem: `what's a netcat`?
 > * You can practice reading and writing ASCII with this picoGym problem: `Let's Warm Up`
 ## Solution
-Open the terminal and type
-`$ nc mercury.picoctf.net 35652`
-and you are going to to get the number lists and convert it using this online ascii to string converter: [Online string tools](https://onlinestringtools.com/convert-ascii-to-string)
+1. Open the terminal and type the following commands:
+`$ nc mercury.picoctf.net 35652`    
+2. Once you connected, you will receive a list of numbers
+3. Convert these numbers into a readable string using an [online ASCII to String converter](https://onlinestringtools.com/convert-ascii-to-string)
 ![ASCII conversion](image.png)
 
 ## Flag
