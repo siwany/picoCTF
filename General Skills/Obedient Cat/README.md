@@ -9,7 +9,7 @@
 > * To get the file accessible in your shell, enter the following in the Terminal prompt: $ wget https://mercury.picoctf.net/static/33996e32dce022205a6a36f69aba56f0/flag
 > * man cat
 ## Solution
-> `cat` : reads data from the file and gives its content as output.
+`cat` : reads data from the file and gives its content as output.
 Do `cat flag` to get the flag.
 ## Flag
 `picoCTF{s4n1ty_v3r1f13d_2aa22101}`
