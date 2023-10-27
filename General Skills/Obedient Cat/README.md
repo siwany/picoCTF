@@ -1,6 +1,7 @@
 ## Obedient Cat
-* points: 5pt
-* category: General Skills
+* Points: 5pt
+* Category: General Skills
+* picoCTF 2021
 ## Description
 > This file has a flag in plain sight (aka "in-the-clear").\
 > `Download flag`
