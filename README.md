@@ -13,5 +13,7 @@ writeup for picoCTF
 | [2Warm](https://github.com/siwany/picoCTF/tree/main/General%20Skills/2Warm) | 50 | Solved |
 | [Python Wrangling](https://github.com/siwany/picoCTF/tree/main/General%20Skills/Python%20Wrangling) | 10 | Solved |
 | [Wave a flag](https://github.com/siwany/picoCTF/tree/main/General%20Skills/Wave%20a%20flag) | 10 | Solved |
+| [Static ain't always noise](https://github.com/siwany/picoCTF/tree/main/General%20Skills/Static%20ain't%20always%20noise) | 20 | Solved |
+| [Tab, Tab, Attack](https://github.com/siwany/picoCTF/tree/main/General%20Skills/Tab,%20Tab,%20Attack) | 20 | Solved |
 
 
