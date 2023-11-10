@@ -2,7 +2,7 @@
 writeup for picoCTF
 
 # Contents
-* General Skills
+* [General Skills](General%20Skills)
 
 ## General Skills
 | Challenges | Points | Status |
@@ -15,5 +15,10 @@ writeup for picoCTF
 | [Wave a flag](https://github.com/siwany/picoCTF/tree/main/General%20Skills/Wave%20a%20flag) | 10 | Solved |
 | [Static ain't always noise](https://github.com/siwany/picoCTF/tree/main/General%20Skills/Static%20ain't%20always%20noise) | 20 | Solved |
 | [Tab, Tab, Attack](https://github.com/siwany/picoCTF/tree/main/General%20Skills/Tab,%20Tab,%20Attack) | 20 | Solved |
+| [Let's Warm Up]() | 50 | Not Yet |
+| [Warmed Up]() | 50 | Not Yet |
+| [what's a net cat?]() | 100 | Not Yet |
+| [strings it]() | 100 | Not Yet |
+
 
 
